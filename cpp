@@ -1,1 +1,1 @@
- printing variables 
+ setting envs 
